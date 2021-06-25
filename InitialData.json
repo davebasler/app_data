@@ -10,6 +10,21 @@
                 "videoLink": "https://www.youtube.com/watch?v=z-IR48Mb3W0&ab_channel=TED-Ed"
             }
         },
+        
+        "disorderTypes":[
+            {
+                "title": "Depression",
+                "internalName": "depression"
+            },
+            {
+                "title": "Angststörung",
+                "internalName": "anxiety"
+            },
+            {
+                "title": "Bipolare Störung",
+                "internalName": "bipolar"
+            }
+        ],
 
         "interventions":[
             {
